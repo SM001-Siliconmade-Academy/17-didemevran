@@ -1,0 +1,86 @@
+{
+  "CFBundleDisplayName": "Super app",
+  "NSContactsUsageDescription": "We need access to your contacts",
+  "login": {
+    "title": "Your Hopi Your Money",
+    "subtitle1": "You must enter the",
+    "subtitle2": "name, email address and password",
+    "subtitle3": "for your Hopi membership below",
+    "button": "CONTINUE"
+  },
+  "welcome": {
+    "title": "Welcome",
+    "subtitle": "What would you like to do with your Hopi?"
+  },
+  "tab": {
+    "home": "Home",
+    "category": "Category",
+    "qr": "QR",
+    "wallet": "My Wallet",
+    "account": "Account",
+    "myqr": "My Hopi QR Code",
+    "mywallet": "My Wallet",
+    "mywallet2": "Transactions"
+  },
+  "tabCategory": {
+    "offers": "Offers",
+    "brands": "Brands"
+  },
+  "tabWallet": {
+    "money": "Money",
+    "currency": "$",
+    "cards": "My Cards"
+  },
+  "tabProducts": {
+    "products": "Products",
+    "brands": "Brands"
+  },
+  "products": {
+    "search": "Search for brands or campaigns",
+    "product": "product",
+    "sort": "sort",
+    "filter": "filter"
+  },
+  "offers": {
+    "allOffers": "See all offers"
+  },
+  "qr": {
+    "seconds": "seconds",
+    "text": "left to use",
+    "subtitle1": "You can take advantage of the offers",
+    "subtitle2": "by scanning the code",
+    "subtitle3": "or",
+    "subtitle4": "by typing the code",
+    "subtitle5": "above",
+    "subtitle6": "on online shopping",
+    "subtitle7": "...",
+    "button": "QR"
+  },
+  "wallet": {
+    "total": "TOTAL MONEY",
+    "money": "MONEY",
+    "gift": "GIFT MONEY",
+    "fuel": "FUEL MONEY",
+    "text": "Minimum value of 1.50 TL in all brands contracted with Hopi, you can spend it",
+    "send": "SEND MONEY"
+  },
+  "account": {
+    "not": "Notifications",
+    "list": "Lists",
+    "customer": "Customer Service"
+  },
+  "hopi": {
+    "search": "Search for brands or campaigns",
+    "hello": "Hello",
+    "money": "Money",
+    "moneyValue": "1 Money = 1$",
+    "goToMoney": "Go to My Money",
+    "reviewOffer": "Review Offer",
+    "myOffers": "My Offers",
+    "seeAll": "see all",
+    "clickWin": "Click Win",
+    "win": "Win",
+    "loveMarks": "Favourite Brands",
+    "loveCategories": "Favourite Categories"
+  }
+}

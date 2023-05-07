@@ -1,0 +1,86 @@
+{
+  "CFBundleDisplayName": "Süper Uygulama",
+  "NSContactsUsageDescription": "Kişi listenize ihtiyacımız var",
+  "login": {
+    "title": "Hopi'n seni cebinden tanir!",
+    "subtitle1": "Hopi üyeligin icin kullanmak istedigin",
+    "subtitle2": "adi, email adresi ve parolani",
+    "subtitle3": "asagidaki alana yazmalisin",
+    "button": "DEVAM ET"
+  },
+  "welcome": {
+    "title": "Hos Geldin",
+    "subtitle": "Hopi'nle ne yapmak istersin?"
+  },
+  "tab": {
+    "home": "Anasayfa",
+    "category": "Kategoriler",
+    "qr": "QR Kodum",
+    "wallet": "Cüzdanim",
+    "account": "Hesabim",
+    "myqr": "Hopi QR Kodum",
+    "mywallet": "Cüzdanim",
+    "mywallet2": "Islem Gecmisi"
+  },
+  "tabCategory": {
+    "offers": "Teklifler",
+    "brands": "Markalar"
+  },
+  "tabWallet": {
+    "money": "Paracik Bakiye",
+    "currency": "TL Bakiye",
+    "cards": "Kartlarim"
+  },
+  "tabProducts": {
+    "products": "Ürünler",
+    "brands": "Markalar"
+  },
+  "products": {
+    "search": "Marka veya kampanya ara",
+    "product": "ürün",
+    "sort": "Sirala",
+    "filter": "Filtrele"
+  },
+  "offers": {
+    "allOffers": "Tüm Teklifleri Gör"
+  },
+  "qr": {
+    "seconds" : "saniye",
+    "text": "icinde QR kodun yenilenecek!",
+    "subtitle1": "QR kodu",
+    "subtitle2": "kasada okutarak",
+    "subtitle3": "veya",
+    "subtitle4": "internet alisverislerinde",
+    "subtitle5": "altindaki kodu",
+    "subtitle6": "yazarak",
+    "subtitle7": "tekliflerden faydalanabilirsiniz",
+    "button": "QR OKUT"
+  },
+  "wallet": {
+    "total": "TOPLAM PARACIK",
+    "money": "PARACIK",
+    "gift": "HEDIYE PARACIK",
+    "fuel": "AKARYAKIT PARACIK",
+    "text": "Hopi ile anlasmali tüm markalarda minimum 1,50 TL degerinde harcayabilirsin",
+    "send": "PARACIK GÖNDER"
+  },
+  "account": {
+    "not": "Bildirimlerin",
+    "list": "Listelerim",
+    "customer": "Müsteri Hizmetleri"
+  },
+  "hopi": {
+    "search": "Marka veya kampanya ara",
+    "hello": "Merhaba",
+    "money": "Paracik'in var",
+    "moneyValue": "1 Paracik=1 TL degerinde kullanabilirsin",
+    "goToMoney": "Paraciklarima Git",
+    "reviewOffer": "Teklifi Incele",
+    "myOffers": "Tekliflerim",
+    "seeAll": "Tümünü Gör",
+    "clickWin": "Tikla Kazan",
+    "win": "Kazan",
+    "loveMarks": "Sevebilecegin Markalar",
+    "loveCategories": "Sevecegin Kategoriler"
+  }
+}
